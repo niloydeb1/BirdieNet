@@ -4,16 +4,16 @@ BirdieNet: Fine-grained Classification of Bird Species with Multi-Branch Attenti
 ## Directory:
 /
 │</br>
-├── cvt-setupA.py # Training with Setup A
-├── cvt-setupB.py # Training with Setup B
-├── eval_bird525.py # Evaluation script for Birdsnap dataset
-├── eval_bird525.sh # Shell script to run eval_bird525.py with arguments
-├── Datasets/ # Folder containing CUB-200-2011 and Birdsnap dataset
-├── utils/ # Folder containing helper scripts
-│ ├── attention_cvt4_all.py
-│ ├── attention_cvt4.py
-│ ├── object_crops.py
-│ └── part_crops.py
+├── cvt-setupA.py # Training with Setup A</br>
+├── cvt-setupB.py # Training with Setup B</br>
+├── eval_bird525.py # Evaluation script for Birdsnap dataset</br>
+├── eval_bird525.sh # Shell script to run eval_bird525.py with arguments</br>
+├── Datasets/ # Folder containing CUB-200-2011 and Birdsnap dataset</br>
+├── utils/ # Folder containing helper scripts</br>
+│ ├── attention_cvt4_all.py</br>
+│ ├── attention_cvt4.py</br>
+│ ├── object_crops.py</br>
+│ └── part_crops.py</br>
 
 
 ## Install the required packages:
