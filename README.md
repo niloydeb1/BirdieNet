@@ -3,7 +3,7 @@ BirdieNet: Fine-grained Classification of Bird Species with Multi-Branch Attenti
 
 ## Directory:
 /
-│
+│</br>
 ├── cvt-setupA.py # Training with Setup A
 ├── cvt-setupB.py # Training with Setup B
 ├── eval_bird525.py # Evaluation script for Birdsnap dataset
