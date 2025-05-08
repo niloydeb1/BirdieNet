@@ -8,7 +8,6 @@ BirdieNet: Fine-grained Classification of Bird Species with Multi-Branch Attenti
 ├── cvt-setupB.py # Training with Setup B</br>
 ├── eval_bird525.py # Evaluation script for Birdsnap dataset</br>
 ├── eval_bird525.sh # Shell script to run eval_bird525.py with arguments</br>
-├── Datasets/ # Folder containing CUB-200-2011 and Birdsnap dataset</br>
 ├── utils/ # Folder containing helper scripts</br>
 │ ├── attention_cvt4_all.py</br>
 │ ├── attention_cvt4.py</br>
